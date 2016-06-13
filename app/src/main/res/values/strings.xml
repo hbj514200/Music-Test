@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">小祥音乐</string>
+    <string name="say_to_you">XXX, 我想对你说一句话</string>
+    <string name="bye">再会，音乐</string>
+</resources>
